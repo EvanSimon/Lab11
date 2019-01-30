@@ -1,0 +1,7 @@
+C:\Users\Evans\source\repos\NewLab11\NewLab11\bin\Debug\NewLab11.exe.config
+C:\Users\Evans\source\repos\NewLab11\NewLab11\bin\Debug\NewLab11.exe
+C:\Users\Evans\source\repos\NewLab11\NewLab11\bin\Debug\NewLab11.pdb
+C:\Users\Evans\source\repos\NewLab11\NewLab11\obj\Debug\NewLab11.csprojAssemblyReference.cache
+C:\Users\Evans\source\repos\NewLab11\NewLab11\obj\Debug\NewLab11.csproj.CoreCompileInputs.cache
+C:\Users\Evans\source\repos\NewLab11\NewLab11\obj\Debug\NewLab11.exe
+C:\Users\Evans\source\repos\NewLab11\NewLab11\obj\Debug\NewLab11.pdb
